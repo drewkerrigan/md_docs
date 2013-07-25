@@ -7,7 +7,7 @@
 
 ##### Example
 
-* https://rawgithub.com/glickbot/md\_docs/master/html/CTC-Example.html
+* https://rawgithub.com/glickbot/md_docs/master/html/CTC-Example.html
 
 ##### References
 
