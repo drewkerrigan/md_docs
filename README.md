@@ -3,7 +3,13 @@
 ##### Overview
 
 * Simple Markdown to HTML method using pandoc + twitter's bootstrap CSS stylings.
-* Minimilistic/Readable formatting for technical documentation
+* Minimalistic/Readable formatting for technical documentation
+
+##### Example
+
+* https://rawgithub.com/glickbot/md\_docs/master/html/CTC-Example.html
+
+##### References
 
 * http://johnmacfarlane.net/pandoc/
 * http://twitter.github.io/bootstrap/
