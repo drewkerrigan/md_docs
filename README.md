@@ -7,16 +7,17 @@
 
 ##### Example
 
-* https://rawgithub.com/glickbot/md_docs/master/html/CTC-Example.html
+Usage:
+
+```
+./bin/make_html.sh ./Example
+```
+
+Output:
+
+* https://rawgithub.com/drewkerrigan/md_docs/master/Example/Example.html
 
 ##### References
 
 * http://johnmacfarlane.net/pandoc/
 * http://twitter.github.io/bootstrap/
-
-##### TODO
-
-* Better README
-* Usage walkthrough
-* Organizational changes/cleanup
-* Automate updating bootstrap libs
