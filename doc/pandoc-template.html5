@@ -22,6 +22,11 @@ $if(highlighting-css)$
 $highlighting-css$
   </style>
 $endif$
+  <style>
+    .header-img {
+        float: right;
+    }
+  </style>
 $for(css)$
   <link rel="stylesheet" href="$css$">
 $endfor$
@@ -68,6 +73,7 @@ $endif$
 
 $if(title)$
 <div class="well">
+  <img class="header-img" src="img/basho_logo.png" />
 <h3 class="title">$title$</h3>
 $for(author)$
 <h4 class="author">$author$</h4>
